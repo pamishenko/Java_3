@@ -1,6 +1,6 @@
 package ru.pamishenko.homework1;
 import java.util.ArrayList;
-import java.util.List;
+import java.util.List;   //kkk
 
 public class  Box<T extends Fruit> {
     List<T> box;
